@@ -30,3 +30,7 @@
 #friends[1] = "Mike"
 
 #print(friends)
+
+#Tuples
+coordinates = (1, 4, 2, 6, 9)
+print(coordinates[3])
