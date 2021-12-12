@@ -37,4 +37,3 @@ print(coordinates[3])
 
 coordinates2 = (2,5,32)
 print(coordinates2[2])
-print(coordinates[0])
